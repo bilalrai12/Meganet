@@ -1,6 +1,6 @@
 # ᝰ.ᐟ megaNet
 
-Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/airdrophuntersieutoc)
+Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (https://t.me/Bilalstudio2)
 
 ## 🚨 Attention Before Running megaNet Cli Version
 
@@ -19,8 +19,8 @@ I am not `responsible` for the possibility of an account being `banned`!
 - Clone Repository
 
 ```bash
-git clone https://github.com/Hunga9k50doker/megaNet.git
-cd megaNet
+git clone https://github.com/bilalrai12/Meganet.git
+cd Meganet
 ```
 
 - Install Dependency
@@ -43,7 +43,7 @@ nano config.js
 nano proxy.txt
 ```
 
-- privateKeys to run node and do task: how to get privateKeys => join my channel: https://t.me/airdrophuntersieutoc
+- privateKeys to run node and do task: how to get privateKeys => join my channel: https://t.me/Bilalstudio2
 
 ```bash
 nano privateKeys.txt
